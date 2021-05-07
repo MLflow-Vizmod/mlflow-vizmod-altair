@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 
 APP_NAME = "mlflow_vizmod.styles.altair"
-VERSION = "1.1.0"
+VERSION = "1.1.1"
 LICENSE = "MIT"
 AUTHOR = "James Hibbard, Andrew Bauman"
 DESCRIPTION = "MLflow Vizmod style for altair"
